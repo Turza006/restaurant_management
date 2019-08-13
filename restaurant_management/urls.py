@@ -19,10 +19,12 @@ from django.conf import settings
 from django.conf.urls.static import static
 from rest_framework.urlpatterns import format_suffix_patterns
 from restaurant_authentication import views
+from restaurant_package import views as package
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('restaurant_authentication.urls')),
     path('list/', views.Restaurant_authenticationList.as_view()),
+    path('packagelist/', package.Restaurant_package_List.as_view()),
 ]+static(settings.MEDIA_URL,document_root = settings.MEDIA_ROOT)
 urlpatterns = format_suffix_patterns(urlpatterns)

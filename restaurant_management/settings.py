@@ -32,6 +32,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'rest_framework',
+    'restaurant_package.apps.RestaurantPackageConfig',
     'restaurant_authentication.apps.RestaurantAuthenticationConfig',
     'django.contrib.admin',
     'django.contrib.auth',
