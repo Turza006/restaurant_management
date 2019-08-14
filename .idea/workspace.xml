@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3649c44e-627b-489a-9d53-80afae813cfb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/features/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/item/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single_service/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single_service/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single_service/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single_service/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single_service/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single_service/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single_service/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single_service/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/restaurant_management/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant_management/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/restaurant_management/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant_management/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="3649c44e-627b-489a-9d53-80afae813cfb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="950" />
     <option name="width" value="980" />
     <option name="height" value="1090" />
@@ -197,21 +176,6 @@
             <path>
               <item name="restaurant_management" type="b2602c69:ProjectViewProjectNode" />
               <item name="restaurant_management" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="restaurant_management" type="b2602c69:ProjectViewProjectNode" />
-              <item name="restaurant_management" type="462c0819:PsiDirectoryNode" />
-              <item name="item" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="restaurant_management" type="b2602c69:ProjectViewProjectNode" />
-              <item name="restaurant_management" type="462c0819:PsiDirectoryNode" />
-              <item name="restaurant_management" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="restaurant_management" type="b2602c69:ProjectViewProjectNode" />
-              <item name="restaurant_management" type="462c0819:PsiDirectoryNode" />
-              <item name="restaurant_package" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -319,7 +283,7 @@
       <workItem from="1565276107766" duration="3357000" />
       <workItem from="1565534856346" duration="10445000" />
       <workItem from="1565721153857" duration="3411000" />
-      <workItem from="1565796144757" duration="3691000" />
+      <workItem from="1565796144757" duration="4135000" />
     </task>
     <task id="LOCAL-00001" summary="rest api added for restudent authentication">
       <created>1565625393056</created>
@@ -342,16 +306,31 @@
       <option name="project" value="LOCAL" />
       <updated>1565724876797</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Item,single_service,restudent_pacage,features added with rest api">
+      <created>1565801219577</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565801219577</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Item,single_service,restudent_pacage,features added with rest api.">
+      <created>1565801272032</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1565801272032</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23410000" />
+    <option name="totallyTimeSpent" value="23854000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22252011" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22252011" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -365,7 +344,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32931727" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32931727" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -380,7 +359,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="rest api added for restudent authentication" />
     <MESSAGE value="package api and rest api added" />
-    <option name="LAST_COMMIT_MESSAGE" value="package api and rest api added" />
+    <MESSAGE value="Item,single_service,restudent_pacage,features added with rest api" />
+    <MESSAGE value="Item,single_service,restudent_pacage,features added with rest api." />
+    <option name="LAST_COMMIT_MESSAGE" value="Item,single_service,restudent_pacage,features added with rest api." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/restaurant_management$django_admin.coverage" NAME="django-admin Coverage Results" MODIFIED="1565536971351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../myvenv/Scripts" />
