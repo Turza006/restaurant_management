@@ -33,6 +33,7 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     'rest_framework',
     'item.apps.ItemConfig',
+    'pamment.apps.PammentConfig',
     'single_service.apps.SingleServiceConfig',
     'features.apps.FeaturesConfig',
     'restaurant_package.apps.RestaurantPackageConfig',
